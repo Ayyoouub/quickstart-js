@@ -21,4 +21,10 @@
  * For more information about generating, finding, or using project config
  * objects, visit https://support.google.com/firebase/answer/7015592.
 */
-export const projectConfig = {}
+export const projectConfig = {
+  apiKey: "AIzaSyC_dfbAx_LOnlJR7MPWz6vOunBthEcoEOY",
+  authDomain: "friendlyeatsproduction-3ae15.firebaseapp.com",
+  projectId: "friendlyeatsproduction-3ae15",
+  storageBucket: "friendlyeatsproduction-3ae15.appspot.com",
+  messagingSenderId: "461241055491",
+  appId: "1:461241055491:web:de8dcaa566cc0cbd1b9136",}
